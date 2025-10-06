@@ -1,0 +1,66 @@
+{
+    "root": {
+        "tipo": "dir",
+        "contenido": {
+            "Carpeta_1": {
+                "tipo": "dir",
+                "contenido": {
+                    "SubCarpeta_1": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    },
+                    "Archivo_2": {
+                        "tipo": "file",
+                        "contenido": "Contenido inicial"
+                    },
+                    "SubCarpeta_3": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    }
+                }
+            },
+            "Carpeta_2": {
+                "tipo": "dir",
+                "contenido": {
+                    "SubCarpeta_2": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    },
+                    "prueba": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    },
+                    "archivo": {
+                        "tipo": "file",
+                        "contenido": ""
+                    },
+                    "jjjjj": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    },
+                    "jjjjjj": {
+                        "tipo": "file",
+                        "contenido": "Contenido inicial"
+                    },
+                    "carpeta100": {
+                        "tipo": "dir",
+                        "contenido": {}
+                    },
+                    "archivo100": {
+                        "tipo": "file",
+                        "contenido": ""
+                    }
+                }
+            },
+            "Carpeta_3": {
+                "tipo": "dir",
+                "contenido": {
+                    "Archivo_1": {
+                        "tipo": "file",
+                        "contenido": "Contenido inicial"
+                    }
+                }
+            }
+        }
+    }
+}
